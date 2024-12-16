@@ -12,7 +12,7 @@ title                    : "Zhishan Yuan's Website"
 title_separator          : "-"
 name                     : &name "Zhishan Yuan"
 description              : &description "Positive and Outgoing, always willing to try new things"
-url                      : https://PeterYuan666.github.io 
+url                      : https://academicpages.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PeterYuan666/Zhishan-Yuan.github.io"
 
