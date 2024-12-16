@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, everyone! Welcome to my homepage. My name is Zhishan Yuan. I am the senior student at School of Future Technology, Huazhong University of Science and Technology.[Hust's Website](https://english.hust.edu.cn/) Majoring in Artificial Intelligence, I have learned about machine learning and deep learning, and want to proceed with my research career in Artificial Intelligence. Now I am actively apply for a PhD position and seeking for a supervisor to guide me explore more about AI. You can drop me an email if you have interest in being my supervisor. 
+Hello, everyone! Welcome to my homepage. My name is Zhishan Yuan. I am the senior student at School of Future Technology, Huazhong University of Science and Technology.[Hust's Website](https://english.hust.edu.cn/) Majoring in Artificial Intelligence, I have learned about machine learning and deep learning, and want to proceed with my research career in Artificial Intelligence. Now I am actively apply for a PhD position and seeking for a supervisor to guide me explore more about AI. You can drop me an email if you have interest in being my supervisor. You can see my homepage here. [My homepage](https://peteryuan666.github.io/Zhishan-Yuan.github.io/)
 
 A data-driven personal website
 ======
